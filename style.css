@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Yeseva+One&display=swap');
+
+body {
+   
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 57px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+    font-weight: bold;
+    margin-left: 10px;
+    line-height: 100px;
+}
+h2{
+    font-size: 50px;
+     font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+h3{
+    font-size: 42px;
+    line-height: 70px;
+     font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+   
+}
+h4{
+    font-size: 30px;
+     font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+p{
+    font-size: 20px;
+    line-height: 25px;
+    margin: 35px 0px;
+
+}
+
+.t-a-c{
+    text-align: center;
+}
+
+.orangered {
+    color: orangered;
+}
+.gray{
+    color: rgb(105, 102, 102);
+}
+
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 7px 15px;
+    font-size: 24px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: rgb(212, 58, 2);
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 140px;
+    margin-bottom: 100px;
+}
+.container-2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+.container-3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    padding-left:150px;
+    background-image: url(/images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 45%;
+}
+.qube-width{
+    width: 27%;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.illustrators-img{
+    width: 40%;
+}
+.coding-img{
+    width: 110%;
+
+}
+.app-img{
+    width: 90%;
+}
+
+.mission-div {
+    border-left: 5px solid orange;
+    margin-top: 130px;
+
+}
+
+.person-img {
+    width: 100%;
+    margin-top: -40px;
+}
+#mission{
+    background-color: rgb(202, 225, 255);
+}
+#vission{
+    background-color: antiquewhite;
+}
+#goals{
+    background-color: rgb(241, 186, 168);
+}
+#develop-bg{
+    background-image: url(/images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding:40px 0px ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.footer-h3{
+    margin:0px 0px 10px 0px;
+
+}
+.footer-p{
+    color: cyan;
+}
+.red{
+    color: red;
+}
