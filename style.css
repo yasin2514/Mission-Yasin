@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Yeseva+One&display=swap');
 
 body {
-   
+
     margin: 0;
     padding: 0;
 }
@@ -14,42 +14,47 @@ h1 {
     margin-left: 10px;
     line-height: 100px;
 }
-h2{
+
+h2 {
     font-size: 50px;
-     font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
 }
-h3{
+
+h3 {
     font-size: 42px;
     line-height: 70px;
-     font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
-   
+
 }
-h4{
+
+h4 {
     font-size: 30px;
-     font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
 }
-p{
+
+p {
     font-size: 20px;
     line-height: 25px;
     margin: 35px 0px;
 
 }
 
-.t-a-c{
+.t-a-c {
     text-align: center;
 }
 
 .orangered {
     color: orangered;
 }
-.gray{
+
+.gray {
     color: rgb(105, 102, 102);
 }
 
-.btn{
+.btn {
     text-decoration: none;
     color: white;
     background-color: orangered;
@@ -58,45 +63,53 @@ p{
     border-radius: 5px;
     font-weight: bold;
 }
-.btn:hover{
+
+.btn:hover {
     background-color: rgb(212, 58, 2);
 }
+
 .container {
     display: flex;
     justify-content: space-between;
     padding: 0px 140px;
     margin-bottom: 100px;
 }
+
 .container-2 {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 100px;
 }
+
 .container-3 {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 100px;
-    padding-left:150px;
-    background-image: url(/images/shapes/shape-5.png);
+    padding-left: 150px;
+    background-image: url(images/shapes/shape-5.png);
     background-repeat: no-repeat;
 }
 
 .half-width {
     width: 45%;
 }
-.qube-width{
+
+.qube-width {
     width: 27%;
     padding: 10px 20px;
     border-radius: 20px;
 }
-.illustrators-img{
+
+.illustrators-img {
     width: 40%;
 }
-.coding-img{
+
+.coding-img {
     width: 110%;
 
 }
-.app-img{
+
+.app-img {
     width: 90%;
 }
 
@@ -110,35 +123,43 @@ p{
     width: 100%;
     margin-top: -40px;
 }
-#mission{
+
+#mission {
     background-color: rgb(202, 225, 255);
 }
-#vission{
+
+#vission {
     background-color: antiquewhite;
 }
-#goals{
+
+#goals {
     background-color: rgb(241, 186, 168);
 }
-#develop-bg{
-    background-image: url(/images/shapes/shape-4.png);
+
+#develop-bg {
+    background-image: url(images/shapes/shape-4.png);
     background-repeat: no-repeat;
 }
-footer{
+
+footer {
     background-color: black;
     color: white;
-    padding:40px 0px ;
+    padding: 40px 0px;
     display: flex;
     align-items: center;
     flex-direction: column;
 
 }
-.footer-h3{
-    margin:0px 0px 10px 0px;
+
+.footer-h3 {
+    margin: 0px 0px 10px 0px;
 
 }
-.footer-p{
+
+.footer-p {
     color: cyan;
 }
-.red{
+
+.red {
     color: red;
 }
